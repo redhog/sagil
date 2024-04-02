@@ -16,6 +16,8 @@ early releases as 0 years.
 
 # Practical info about the venue (more will be added soon):
 
+![img](https://barumhistorie.no/Lommedalen/hytter%20hoppeseter%201.jpg)
+
 ## Facilities
 
 * 4 bedrooms
