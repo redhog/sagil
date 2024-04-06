@@ -45,6 +45,8 @@ from the hut.
 
 # Signup
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSemxJsNVSfIVxwV_IHkZNeYHifbZgPybm3SATZ3jQasD6k9tw/viewform?embedded=true" width="640" height="1453" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 Please notify Team Sagil by email at redhog@redhog.org of your
 intention to attend, as well as number of participants and any special
 needs or requirements! Please include the text "SAGIL 1.0" in the
