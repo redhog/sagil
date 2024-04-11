@@ -5,7 +5,7 @@ Welcome to the Sagil 1.0 release party! Team Sagil has been working
 tirelessly towards this moment for 10 years now, and we are proud to
 finally announce the release of Lavinia Iselin Mithra Sagil!
 
-<img src="lavinia.jpg" alt="Lavinia" syle="width: 20%; float: right;" />
+<img src="lavinia.jpg" alt="Lavinia" style="width: 40%; float: right;" />
 
 The release party will take place on the weekend 2024-07-19 to
 2024-07-21 at
@@ -18,7 +18,7 @@ early releases as 0 years.
 
 # Practical info about the venue (more will be added soon):
 
-<img src="https://barumhistorie.no/Lommedalen/hytter%20hoppeseter%201.jpg" alt="Hoppeseter" style="width: 20%; float: right;" />
+<img src="https://barumhistorie.no/Lommedalen/hytter%20hoppeseter%201.jpg" alt="Hoppeseter" style="width: 40%; float: right;" />
 
 ## Facilities
 
