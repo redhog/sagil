@@ -38,12 +38,14 @@ early releases as 0 years.
 
 ## How to get there
 
-The [closest bus
-stop](https://www.google.com/maps/dir/Oslo+S,+Jernbanetorget,+Oslo/Bykrysset,+1350+Lommedalen/@59.9352427,10.529885,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x46416e8a1c253d39:0xe77bcdda7048ef3b!2m2!1d10.7520409!2d59.9112239!1m5!1m1!1s0x46411207cede829b:0x984cd6fc4a911655!2m2!1d10.467765!2d59.979366!3e3?entry=ttu)
-is 5,5km from the hut. There is also a parking lot next to this bus
+The closest bus stop is 5,5km from the hut. There is also a parking lot next to this bus
 stop. If it is hard for you to walk this far, coordinate with Team
 Sagil to organize transport from there to the upper parking lot, 2.2km
 from the hut.
+
+* To get to the bus stop, follow [this public transport route](https://www.google.com/maps/dir/Oslo+S,+Jernbanetorget,+Oslo/Bykrysset,+1350+Lommedalen/@59.9352427,10.529885,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x46416e8a1c253d39:0xe77bcdda7048ef3b!2m2!1d10.7520409!2d59.9112239!1m5!1m1!1s0x46411207cede829b:0x984cd6fc4a911655!2m2!1d10.467765!2d59.979366!3e3?entry=ttu)
+* To get from the bus stop to the upper parking lot, follow [this route](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=59.9796%2C10.4676%3B60.0010%2C10.4864#map=14/59.9903/10.4770).
+* To get from the upper parking lot to the hut, follow [this route](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=60.0010%2C10.4863%3B60.0041%2C10.4709#map=16/60.0030/10.4842).
 
 # Signup
 
